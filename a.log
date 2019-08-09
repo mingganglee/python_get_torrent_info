@@ -1,0 +1,10 @@
+total 616
+drwxr-xr-x  4 liminggang  staff     128  8  8 15:43 __pycache__
+-rw-r--r--  1 liminggang  staff       0  8  8 17:47 a
+-rw-r--r--  1 liminggang  staff       0  8  8 17:50 a.log
+-rw-r--r--@ 1 liminggang  staff      16  8  8 15:43 aaa.py
+-rw-r--r--@ 1 liminggang  staff     745  8  7 22:08 check.py
+-rw-r--r--  1 liminggang  staff   16807  8  7 22:05 check_download_file_size.txt
+-rw-r--r--@ 1 liminggang  staff   13566  8  8 15:43 test.py
+-rw-r--r--@ 1 liminggang  staff  202038  8  8 11:46 torrent_info
+-rw-r--r--@ 1 liminggang  staff   33459  8  7 21:42 torrent_info_server

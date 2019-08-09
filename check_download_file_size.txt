@@ -1,0 +1,406 @@
+name: [Kamigami] Gin no Saji S2 - 02 [1280×720 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  337766856 
+  server: 338403254
+name: [Kamigami] Hamatora - 02 [1920×1080 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  469794816 
+  server: 609233810
+name: [Kamigami] Hozuki no Reitetsu - 13 [1280×720 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  210197115 
+  server: 452321514
+name: [Kamigami] Kamigami no Asobi - 01 [1280×720 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  382500864 
+  server: 385859588
+name: [Kamigami] Kamigami no Asobi - 03 [1280×720 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  155353088 
+  server: 380155905
+name: [Kamigami] Kamigami no Asobi - 04 [1280×720 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  377156809 
+  server: 380238018
+name: [Kamigami] Kamigami no Asobi - 10 [1280×720 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  167510016 
+  server: 379557909
+name: [Kamigami] Kidou Senshi Gundam UC Unicorn - 05 [BD 1280x720 x264 AAC(Jap,Eng) Sub(Chs,Cht,Jap,Eng,Fre,Spa)].mkv 
+  local:  0 
+  server: 718055878
+name: [Kamigami] Kidou Senshi Gundam UC Unicorn - 06 [BD 1280x720 x264 AAC(Jap,Eng) Sub(Chs,Cht,Jap,Eng,Fre,Spa)].mkv 
+  local:  0 
+  server: 725965168
+name: [Kamigami] Gundam UC Unicorn - 03 [BD 1920x1080 x264 FLAC(5.1ch,Can,Jap,Eng) Sub(Chs,Cht,Jap,Eng,Fre,Spa)].mkv 
+  local:  3238215680 
+  server: 4272089140
+name: [Kamigami] Gundam UC Unicorn - 05 [BD 1920x1080 x264 FLAC(5.1ch,Can,Jap,Eng) Sub(Chs,Cht,Jap,Eng,Fre,Spa)].mkv 
+  local:  4111073 
+  server: 4498506239
+name: [Kamigami] Gundam UC - 07 [BD 1920x1080 x264 Hi10P FLAC(5.1ch,Jap,Eng) Sub(Chs,Cht,Jap,Eng,Fre,Spa)].mkv 
+  local:  6977060864 
+  server: 6977072256
+name: [Kamigami] La Corda d'Oro Blue Sky - 07 [1920×1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  0 
+  server: 571030304
+name: [Kamigami] La Corda d'Oro Blue Sky - 10 [1920×1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  0 
+  server: 571002597
+name: [Kamigami] La Corda d'Oro Blue Sky - 12 [1920×1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  348930048 
+  server: 572152254
+name: [Kamigami] Magi S2 - 09 [1920x1080 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 609690087
+name: [Kamigami] Mushishi Zoku Shou - 01 [1920x1080 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 628371522
+name: [Kamigami] Mushishi Zoku Shou - 01 [1920x1080 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 628371522
+name: [Kamigami] Mushishi Zoku Shou - 05 [1280x720 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  117440512 
+  server: 340310920
+name: [Kamigami] Mushishi Zoku Shou - 10 [1280x720 x264 AAC Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 340301246
+name: [Kamigami] Nagi no Asukara - 12 [1280x720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  116634242 
+  server: 415307285
+name: [Kamigami] Nagi no Asukara - 16 [1280x720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  12386461 
+  server: 405542283
+name: [Kamigami] Nagi no Asukara - 19 [1280x720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  2505018 
+  server: 405523313
+name: [Kamigami] Nisekoi - 12 [1280x720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  0 
+  server: 399467455
+name: [Kamigami] Nisekoi - 12 [1280x720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  0 
+  server: 399467455
+name: [Kamigami] Nisekoi - 11 [1280×720 x264 AAC Sub(Cht,Chs,Jap)].mkv 
+  local:  397348608 
+  server: 399200675
+name: [Kamigami] Rekishi hiwa History - 175 [1440x1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  0 
+  server: 7691130817
+name: [Kamigami] Rekishi hiwa History - 175 [1440x1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  0 
+  server: 7691130817
+name: [Kamigami] Rekishi hiwa History - 175 [1920x1080 x264 AAC Sub(Chs,Jap)].mkv 
+  local:  5048172544 
+  server: 5439384357
+name: [Kamigami] Servant x Service - 05 [BD 1920x1080 x264 DTS-HD].mkv 
+  local:  0 
+  server: 1045146703
+name: [Kamigami] Servant x Service - 08 [BD 1920x1080 x264 DTS-HD].mkv 
+  local:  0 
+  server: 1044797160
+name: [Kamigami] Slam Dunk - 01 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282368969
+name: [Kamigami] Slam Dunk - 02 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 232087828
+name: [Kamigami] Slam Dunk - 03 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 231779815
+name: [Kamigami] Slam Dunk - 04 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 231997909
+name: [Kamigami] Slam Dunk - 05 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 241954669
+name: [Kamigami] Slam Dunk - 06 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 241611756
+name: [Kamigami] Slam Dunk - 07 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 242840651
+name: [Kamigami] Slam Dunk - 08 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 242516741
+name: [Kamigami] Slam Dunk - 09 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321604230
+name: [Kamigami] Slam Dunk - 10 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321209941
+name: [Kamigami] Slam Dunk - 100 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264290173
+name: [Kamigami] Slam Dunk - 101 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 258488095
+name: [Kamigami] Slam Dunk - 11 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321472088
+name: [Kamigami] Slam Dunk - 12 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321554757
+name: [Kamigami] Slam Dunk - 13 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 319816092
+name: [Kamigami] Slam Dunk - 14 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 318539793
+name: [Kamigami] Slam Dunk - 15 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321362428
+name: [Kamigami] Slam Dunk - 16 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 319635440
+name: [Kamigami] Slam Dunk - 17 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 322714555
+name: [Kamigami] Slam Dunk - 18 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 322464390
+name: [Kamigami] Slam Dunk - 19 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 321846940
+name: [Kamigami] Slam Dunk - 20 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 322936791
+name: [Kamigami] Slam Dunk - 21 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 320228806
+name: [Kamigami] Slam Dunk - 22 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 320994093
+name: [Kamigami] Slam Dunk - 23 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 320549419
+name: [Kamigami] Slam Dunk - 24 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 323202423
+name: [Kamigami] Slam Dunk - 25 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 320374512
+name: [Kamigami] Slam Dunk - 26 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 284093658
+name: [Kamigami] Slam Dunk - 27 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 284868425
+name: [Kamigami] Slam Dunk - 28 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283965762
+name: [Kamigami] Slam Dunk - 29 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 284902962
+name: [Kamigami] Slam Dunk - 30 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285616888
+name: [Kamigami] Slam Dunk - 31 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286100066
+name: [Kamigami] Slam Dunk - 32 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285694761
+name: [Kamigami] Slam Dunk - 33 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285995929
+name: [Kamigami] Slam Dunk - 34 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286661664
+name: [Kamigami] Slam Dunk - 35 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285679269
+name: [Kamigami] Slam Dunk - 36 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286511244
+name: [Kamigami] Slam Dunk - 37 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286029839
+name: [Kamigami] Slam Dunk - 38 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285286231
+name: [Kamigami] Slam Dunk - 39 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 279789964
+name: [Kamigami] Slam Dunk - 40 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286386128
+name: [Kamigami] Slam Dunk - 41 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286774559
+name: [Kamigami] Slam Dunk - 42 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285572212
+name: [Kamigami] Slam Dunk - 43 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285893041
+name: [Kamigami] Slam Dunk - 44 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285734848
+name: [Kamigami] Slam Dunk - 45 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285350287
+name: [Kamigami] Slam Dunk - 46 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285289327
+name: [Kamigami] Slam Dunk - 47 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286058440
+name: [Kamigami] Slam Dunk - 48 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 287307009
+name: [Kamigami] Slam Dunk - 49 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 287173718
+name: [Kamigami] Slam Dunk - 50 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286092948
+name: [Kamigami] Slam Dunk - 51 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285860573
+name: [Kamigami] Slam Dunk - 52 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286372035
+name: [Kamigami] Slam Dunk - 53 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285574970
+name: [Kamigami] Slam Dunk - 54 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285183574
+name: [Kamigami] Slam Dunk - 55 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286339536
+name: [Kamigami] Slam Dunk - 56 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 287017006
+name: [Kamigami] Slam Dunk - 57 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286885597
+name: [Kamigami] Slam Dunk - 58 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 286450201
+name: [Kamigami] Slam Dunk - 59 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285713821
+name: [Kamigami] Slam Dunk - 60 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 288587703
+name: [Kamigami] Slam Dunk - 61 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 287363311
+name: [Kamigami] Slam Dunk - 62 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 287584003
+name: [Kamigami] Slam Dunk - 63 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 285309930
+name: [Kamigami] Slam Dunk - 64 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 281583426
+name: [Kamigami] Slam Dunk - 65 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283681050
+name: [Kamigami] Slam Dunk - 66 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283479307
+name: [Kamigami] Slam Dunk - 67 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282683849
+name: [Kamigami] Slam Dunk - 68 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283014989
+name: [Kamigami] Slam Dunk - 69 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 281595017
+name: [Kamigami] Slam Dunk - 70 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 281951141
+name: [Kamigami] Slam Dunk - 71 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282121334
+name: [Kamigami] Slam Dunk - 72 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283409447
+name: [Kamigami] Slam Dunk - 73 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283416538
+name: [Kamigami] Slam Dunk - 74 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283304356
+name: [Kamigami] Slam Dunk - 75 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282729864
+name: [Kamigami] Slam Dunk - 76 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282574566
+name: [Kamigami] Slam Dunk - 77 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282679857
+name: [Kamigami] Slam Dunk - 78 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 281998250
+name: [Kamigami] Slam Dunk - 79 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 281896917
+name: [Kamigami] Slam Dunk - 80 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283445145
+name: [Kamigami] Slam Dunk - 81 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282042843
+name: [Kamigami] Slam Dunk - 82 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282942319
+name: [Kamigami] Slam Dunk - 83 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 282871353
+name: [Kamigami] Slam Dunk - 84 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 283061764
+name: [Kamigami] Slam Dunk - 85 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264236671
+name: [Kamigami] Slam Dunk - 86 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264176368
+name: [Kamigami] Slam Dunk - 87 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264098567
+name: [Kamigami] Slam Dunk - 88 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264222268
+name: [Kamigami] Slam Dunk - 89 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264256079
+name: [Kamigami] Slam Dunk - 90 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264282280
+name: [Kamigami] Slam Dunk - 91 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264265454
+name: [Kamigami] Slam Dunk - 92 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264295565
+name: [Kamigami] Slam Dunk - 93 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264378329
+name: [Kamigami] Slam Dunk - 94 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264293431
+name: [Kamigami] Slam Dunk - 95 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264323622
+name: [Kamigami] Slam Dunk - 96 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264310333
+name: [Kamigami] Slam Dunk - 97 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264420034
+name: [Kamigami] Slam Dunk - 98 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264399633
+name: [Kamigami] Slam Dunk - 99 [HDTV x264 960×720 AAC(Jap,Man,Can) Sub(Chs,Cht,Jap)].mkv 
+  local:  0 
+  server: 264308300
+name: [Kamigami] Tonari no Kaibutsu-kun - 09 [BDRip 1920x1080 x264 FLAC].mkv 
+  local:  4970395 
+  server: 1736285752
+name: [Kamigami] Tonari no Kaibutsu-kun - 11 [BDRip 1920x1080 x264 FLAC].mkv 
+  local:  7739216 
+  server: 1764843172
+name: [Kamigami] Tonari no Kaibutsu-kun - 12 [BDRip 1920x1080 x264 FLAC].mkv 
+  local:  11506368 
+  server: 1735806972
+135
